@@ -1,6 +1,6 @@
 # BenchBot Add-on: Development Environments for Isaac (Unreal Engine)
 
-This add-on contains the development environments used for the Semantic Scene Understanding Challenge.
+This add-on contains the development environments used for the Semantic Scene Understanding Challenge, made in Unreal Engine.
 
 These environments are a part of the Benchbot Environments for Active Robotics (BEAR).
 
